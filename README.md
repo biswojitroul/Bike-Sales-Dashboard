@@ -24,7 +24,7 @@ This project presents a comprehensive **Bike Sales Dashboard** built using **Mic
 
 ## 📎 Project Snapshot:
 
-![Bike Sales Dashboard](Bike_Sales_Dashboard.png)
+![Bike Sales Dashboard](Bike Sales Dashboard.jpeg)
 
 ---
 
