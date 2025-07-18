@@ -37,7 +37,7 @@ Feel free to clone, fork, or download the project to explore how Excel can be us
 ---
 
 ### 🔗 Connect with me:
-- [LinkedIn](www.linkedin.com/in/biswojit-roul-349b8a187)
+- [LinkedIn](www.linkedin.com/in/biswojit-roul-349b8a187 )
 - [GitHub](https://github.com/biswojitroul)
 
 #ExcelDashboard #DataAnalytics #CustomerInsights #BikeSales #DataVisualization #GitHubProjects
